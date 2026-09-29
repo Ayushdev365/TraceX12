@@ -1,0 +1,1 @@
+var e=`vasptrace:last-result`;function t(t){try{sessionStorage.setItem(e,JSON.stringify(t))}catch{}}function n(t){try{let n=sessionStorage.getItem(e);if(!n)return null;let r=JSON.parse(n);return r.traceId===t?r:null}catch{return null}}export{n,t};

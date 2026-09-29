@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "VASPTrace",
+      "hasCanvas": false,
+      "bodyTextLen": 1270,
+      "bodyTextHash": "2ef8710322b553edf1986c96f7832d0ad90c26d8e75309f93738864db392cbdd",
+      "bodyTextPrefix": "VASPTrace Investigate Cases Dataset Method SIH26182 Investigativ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "VASPTrace",
+      "hasCanvas": false,
+      "bodyTextLen": 1241,
+      "bodyTextHash": "8a32e77c081262b69bb868bddec0deff8809e3c0356d8477e2163158b5eb1fd4",
+      "bodyTextPrefix": "VASPTrace Not proof SIH 2026 · BLOCKCHAIN & CYBERSECURITY Attrib",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
